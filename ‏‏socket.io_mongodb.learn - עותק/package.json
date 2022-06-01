@@ -1,0 +1,19 @@
+{
+  "name": "socket.io_mongodb.learn",
+  "version": "1.0.0",
+  "description": "socket io and mongodb learn",
+  "main": "server",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "author": "gil",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.4",
+    "nodemon": "^2.0.16",
+    "socket.io": "^4.5.1"
+  }
+}
